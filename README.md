@@ -52,5 +52,5 @@ sed -i 's/#greeter-session=example-gtk-gnome/greeter-session=lightdm-webkit2-gre
 git clone https://github.com/CodigoCristo/themexfce4.git
 cd themexfce4
 unzip -o configxfce4.zip -d ~/
-unzip -o glorius.zip -d /usr/share/lightdm-webkit/themes/
+sudo unzip -o glorius.zip -d /usr/share/lightdm-webkit/themes/
 ```
